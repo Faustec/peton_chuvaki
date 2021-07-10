@@ -76,6 +76,3 @@ def main():
         print("Не падой пажалуста")
 
 
-def NewFunction(sm):
-    print("Моя залупа ", sm, " сантиметров")
-NewFunction(23)
